@@ -1,4 +1,4 @@
-<center><a href="https://github.com/JaeSeoKim/badge42"><center><img src="https://badge42.vercel.app/api/v2/clh549ncj001108l6yrtjotow/stats?cursusId=21&coalitionId=216" alt="alvalope's 42 stats" /></center></a></center>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh549ncj001108l6yrtjotow/stats?cursusId=21&coalitionId=216" alt="alvalope's 42 stats" />/a>
 
 <!--
 **alvalope/alvalope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
